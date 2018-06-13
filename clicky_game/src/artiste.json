@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name":"Gabrielle Union",
+      "img": "https://www.thefamouspeople.com/profiles/images/gabrielle-union-1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Kat Graham",
+        "img": "http://tribzap2it.files.wordpress.com/2015/04/bonnie-bennet-kat-graham-vampire-diaries-s6-cw.jpg?w=900&h=506&zoom=2"
+      },
+      {
+        "id": 3,
+        "name":"Harry Styles",
+        "img": "https://resources.stuff.co.nz/content/dam/images/1/j/o/3/t/8/image.related.StuffLandscapeSixteenByNine.620x349.1jo3rf.png/1496961951499.jpg"
+      },
+      {
+        "id": 4,
+        "name":"Liam Payne",
+        "img": "https://imagesvc.timeincuk.net/v3/keystone/image?url=http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/53/2017/08/liampayne.jpg&q=82"
+      },
+      {
+        "id": 5,
+        "name":"John Boyega",
+        "img": "https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/GettyImages-501722770.max-620x600.jpg"
+      },
+      {
+        "id": 6,
+        "name":"Idris Elba",
+        "img": "https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-img.instyle.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F684xflex%2Fpublic%2Fimages%2F2016%2F01%2F013016-idris-elba-lead.jpg%3Fitok%3DCGBhcT6H&w=700&q=85"
+      },
+      {
+        "id": 7,
+        "name":"Kelly Rowland",
+        "img": "http://thatgrapejuice.net/wp-content/uploads/2016/04/kelly-rowland-chasing-destiny-tgj-2.jpg"
+      },
+      {
+        "id": 8,
+        "name":"Rihanna",
+        "img": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-img.essence.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1x1_lg%2Fpublic%2F1510254067%2Fslack-imgs_0.jpg%3Fitok%3DaC1D-HgI&w=700&q=85"
+      },
+      {
+        "id": 9,
+        "name":"Nina Dobrev",
+        "img": "https://media.allure.com/photos/59a4737d115f05639116e652/3:4/w_767/nina.jpg"
+      },
+      {
+        "id": 10,
+        "name":"Taylor Swift",
+        "img": "https://amp.thisisinsider.com/images/5a3ad245ae7f591d008b4628-750-563.jpg"
+      },
+      {
+        "id": 11,
+        "name":"Jussie Smolette",
+        "img": "https://i.pinimg.com/originals/42/1e/a2/421ea2e8111444d07a3ad36664b8a30a.jpg"
+      },
+      {
+        "id": 12,
+        "name":"David Henrie",
+        "img": "http://www4.pictures.zimbio.com/gi/David+Henrie+69IMBrNSuQVm.jpg"
+      }
+]

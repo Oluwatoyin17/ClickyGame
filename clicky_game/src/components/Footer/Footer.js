@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => (
 	<header className = "footer">
-		<p> &copyCopyright 2018 Oluwatoyin,</p>
+		<p> &copyCopyright 2018 Oluwatoyin </p>
 	</header>
 );
 
