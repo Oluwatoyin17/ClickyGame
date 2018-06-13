@@ -61,7 +61,7 @@ imgClick = id => {
         this.setState({ 
             gameMessage: "You guessed correctly!",
             score: this.state.score + 1,
-            topScore: (this.state.score > this.state.topScore) ? this.state.score : this.state.topScore,
+            topScore: this.state.score + 1,
             artiste: artiste,
             unClicked: newartiste
         });
