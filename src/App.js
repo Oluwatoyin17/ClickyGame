@@ -20,54 +20,11 @@ class App extends Component {
     artiste: artiste,
     score:0,
     topScore:0,
-    // click: [],
     unClicked:artiste,
     gameMessage:"Click an image to begin!"
   };
 
-  // componentDidMount = () => {
-  //   // The elements are in the DOM, initialize a shuffle instance.
-  //   this.shuffle(this.state.artiste);
-  //   };
-  //   shuffle = artisteArr => {
-      
-  //   }
 
-// handleIncrement = () =>{
-//   this.setState({
-//     score: this.state.score + 1
-//   });
-//   if(this.state.score >= this.state.topScore){
-//     this.setState({topScore: this.state.score});
-//   }
-//   else if(this.state.score === 12){
-//     this.setState({gameMessage: "Great Job! You Win!"});
-//   }
-  
-//     // Shuffle the array to be rendered in a random order
-//    artiste.sort(function(a, b){return 0.5 - Math.random()})
-// }
-
-// imgClick = id => {
-//   if(this.state.click.indexOf(id) > 0){
-//     this.setState({
-//       // Shuffle the array to be rendered in a random order
-//       artiste: this.state.artiste.sort(function(a, b){return 0.5 - Math.random()}),
-//     })
-//     score: 0;
-//     topScore: this.state.topScore;
-//     click:[];
-//     gameMessage:"You lost, please try again"
-//   }
-//   else{
-//     this.setState({
-//        // Shuffle the array to be rendered in a random order
-//       artiste: this.state.artiste.sort(function(a, b){return 0.5 - Math.random()}),
-//       click: this.state.click.concat(id)
-//     })
-//     this.handleIncrement();
-//   }
-// }
 
 handleReset = () => {
 
