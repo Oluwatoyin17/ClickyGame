@@ -1,0 +1,20 @@
+{
+  "name": "ClickyGame",
+  "version": "1.0.0",
+  "description": "This application renders different images to the screen. Each image listens for click events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwatoyin17/ClickyGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwatoyin17/ClickyGame/issues"
+  },
+  "homepage": "https://github.com/Oluwatoyin17/ClickyGame#readme"
+}
